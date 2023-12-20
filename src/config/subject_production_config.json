@@ -1,0 +1,10 @@
+{
+    "EMAIL_VERIFICATION": "Verify Your Email Address",
+    "RESET_PASSWORD" : "KLG: Reset your password",
+    "DOCUMENT_ACCEPT_REQUEST" : "Your Level 2 Access Request is Approved!",
+    "DOCUMENT_DECLINED_REQUEST" : "Your Level 2 Access Request is Declined!",
+    "DECLINE_DOCUMENT_ACCOUNT_REQUEST": "Decline Resource Request",
+    "ACCEPTED_DOCUMENT_ACCOUNT_REQUEST": "Accepted Resource Request",
+    "MANAGER_NOT_FOUND":"No manager found for signed up member",
+    "CONTACT_US":"KLG: New Contact Inquiry"
+}
